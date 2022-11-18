@@ -8,5 +8,5 @@
 <h2>Support me</h2>
 
 <p align="center">
-[![paypal](https://img.shields.io/badge/Donate-PayPal-0079C1)](https://www.paypal.com/donate/?hosted_button_id=PZMD6KR4CWRQL)
+<a href="https://paypal.me/ESanguineti" alt="Paypal"><img src="https://img.shields.io/badge/PayPal-support-blue.svg?logo=paypal"></a>
 </p>
