@@ -1,8 +1,8 @@
 <h2>Hello, I'm Edoardo</h2>
 <ul>
 <li>I reverse engineer old games and write code in C/C++, Python and Java.</li>
-<li>I now mantain and improve <a href="https://github.com/XLabsProject/iw4x-client">IW4x</a>, <a href="https://github.com/XLabsProject/iw6x-client">IW6x</a>, <a href="https://github.com/XLabsProject/s1x-client">S1x</a> and <a href="https://github.com/XLabsProject/launcher">Xlabs Launcher</a> as part of <a href="https://xlabs.dev">X Labs</a></li>
-<li>I started contributing to <a href="https://github.com/momo5502/boiii">boiii</a>, a game modification for Black Ops 3</li>
+<li>I used to mantain and improve IW4x, IW6x, S1x and the Xlabs Launcher as part of X Labs</li>
+<li>I contributed to boiii, a game modification for Black Ops 3</li>
 <li>I make custom plugins for <a href="https://namelessnoobs.com/">namelessnoobs.com</a>.</li>
 <li>I am also part of the <a href="https://plutonium.pw/">Plutonium</a> team as a client developer</li>
 <li>I fixed many denial-of-service vulnerabilities in the original games now supported by the clients I maintain. I also made the clients I am involved with more secure.</li>
