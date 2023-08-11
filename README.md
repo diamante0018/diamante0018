@@ -1,7 +1,7 @@
 <h2>Hello, I'm Edoardo</h2>
 <ul>
 <li>I reverse engineer old games and write code in C/C++, Python and Java.</li>
-<li>In 2023 I launched <a href="https://alterware.dev">AlterWare</a>. It provides extends support for the now dead XLabs clients</li>
+<li>In 2023 I launched <a href="https://alterware.dev">AlterWare</a>. It extends support for the now dead XLabs clients</li>
 <li>I used to mantain and improve IW4x, IW6x, S1x and the Xlabs Launcher as part of X Labs</li>
 <li>I contributed to boiii, a game modification for Black Ops 3</li>
 <li>I make custom plugins for <a href="https://namelessnoobs.com/">namelessnoobs.com</a>.</li>
