@@ -7,4 +7,6 @@
 <li>I fixed many denial-of-service vulnerabilities in the original games.</li>
 </ul>
 
+Most of my work is on my [self-hosted](https://git.alterware.dev/alterware) git
+
 SSI Technical SCUBA diver 🤿
